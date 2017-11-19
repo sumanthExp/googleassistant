@@ -1,0 +1,1704 @@
+1511080820572	geckodriver	INFO	geckodriver 0.19.1
+1511080820575	geckodriver	INFO	Listening on 127.0.0.1:49603
+1511080821667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ggb7dY2FuhHJ"
+1511080822388	Marionette	INFO	Enabled via --marionette
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:20734): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511080824950	Marionette	INFO	Listening on port 33781
+1511080824987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511080825084	Marionette	DEBUG	Register listener.js for window 2147483649
+1511080825116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511080827445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511080827731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511080833537	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511080833576	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511080833728	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511080833729	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511080834207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511080834207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511080834347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511080834374	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511080834834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511080836959	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511080839590	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyYEn3AP20AvFS0trhq0n6Npz6nVWloLsZ5VQ6_LpoihN098xhuft_-t9ibYjlx3cHNDOXb1h2GjYyLS4XUcsrLviBTliTJUiwMwB1qLUd3p7A-P9YTxhTe456o7TA4azl9JS7QClGZsWCDSfZ2cE_AeatdYw"
+1511080839792	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyYEn3AP20AvFS0trhq0n6Npz6nVWloLsZ5VQ6_LpoihN098xhuft_-t9ibYjlx3cHNDOXb1h2GjYyLS4XUcsrLviBTliTJUiwMwB1qLUd3p7A-P9YTxhTe456o7TA4azl9JS7QClGZsWCDSfZ2cE_AeatdYw"
+1511080839793	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyYEn3AP20AvFS0trhq0n6Npz6nVWloLsZ5VQ6_LpoihN098xhuft_-t9ibYjlx3cHNDOXb1h2GjYyLS4XUcsrLviBTliTJUiwMwB1qLUd3p7A-P9YTxhTe456o7TA4azl9JS7QClGZsWCDSfZ2cE_AeatdYw"
+1511080839808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A178%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511080839821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511080839821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511080839923	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A178%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511080839926	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A178%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511080840012	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A178%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511080840019	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511080840021	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511080840024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511080840030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511080840030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511080840175	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511080840300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511080840527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1511080842155	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511080844610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511082992284	geckodriver	INFO	geckodriver 0.19.1
+1511082992286	geckodriver	INFO	Listening on 127.0.0.1:33643
+1511082993390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.asi6f0cfxNpK"
+1511082994117	Marionette	INFO	Enabled via --marionette
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:22340): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511082996953	Marionette	INFO	Listening on port 34453
+1511082997014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511082997115	Marionette	DEBUG	Register listener.js for window 2147483649
+1511082997138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511083001302	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511083001563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511083008288	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511083008330	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511083008497	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511083008498	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511083009123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511083009123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511083009253	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511083009254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511083009283	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511083009759	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511083011843	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511083017077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511083190176	geckodriver	INFO	geckodriver 0.19.1
+1511083190179	geckodriver	INFO	Listening on 127.0.0.1:43485
+1511083191277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BKAQZ1sOwNKO"
+1511083192016	Marionette	INFO	Enabled via --marionette
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:22613): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511083195133	Marionette	INFO	Listening on port 35003
+1511083195197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511083195299	Marionette	DEBUG	Register listener.js for window 2147483649
+1511083195315	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511083197684	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511083197994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511083200581	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511083200612	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511083200778	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511083200779	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511083201268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511083201269	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511083201409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511083201431	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511083201920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511083201920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511083204017	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511083208285	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyiGPJ62Y8cPxBOfNPNRjRkypFhMB9h9UCbiFUe-wkYPbRfi_VuGS_Cr_3v-M56mBhYe23iD7zVkYdeE86nbBR861wRSNKg6JCyDkzJPsLW7KYbqxFGPyP8oOp-cwpBuZirssLPjV-FJZkbPfP-DHnZp6wPtA"
+1511083208410	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyiGPJ62Y8cPxBOfNPNRjRkypFhMB9h9UCbiFUe-wkYPbRfi_VuGS_Cr_3v-M56mBhYe23iD7zVkYdeE86nbBR861wRSNKg6JCyDkzJPsLW7KYbqxFGPyP8oOp-cwpBuZirssLPjV-FJZkbPfP-DHnZp6wPtA"
+1511083208410	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLyiGPJ62Y8cPxBOfNPNRjRkypFhMB9h9UCbiFUe-wkYPbRfi_VuGS_Cr_3v-M56mBhYe23iD7zVkYdeE86nbBR861wRSNKg6JCyDkzJPsLW7KYbqxFGPyP8oOp-cwpBuZirssLPjV-FJZkbPfP-DHnZp6wPtA"
+1511083208431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511083208432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511083208432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A177%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511083208523	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A177%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511083208526	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A177%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511083208610	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A177%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511083208615	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511083208618	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511083208623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511083208624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511083208624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511083208907	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511083209073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511083210416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1511083213343	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511083217641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511088698483	geckodriver	INFO	geckodriver 0.19.1
+1511088698520	geckodriver	INFO	Listening on 127.0.0.1:33317
+1511088699600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xBi1BAOqUtKO"
+1511088700975	Marionette	INFO	Enabled via --marionette
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:3917): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511088704611	Marionette	INFO	Listening on port 40583
+1511088704780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511088704859	Marionette	DEBUG	Register listener.js for window 2147483649
+1511088704947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511088705661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511088706184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511088708684	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511088708715	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511088708866	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511088708866	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511088709878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511088709878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511088710024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1511088710052	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511088710516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511088712614	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511088717843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511090767037	geckodriver	INFO	geckodriver 0.19.1
+1511090767040	geckodriver	INFO	Listening on 127.0.0.1:55167
+1511090768150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MdDAXnACEJfc"
+1511090768841	Marionette	INFO	Enabled via --marionette
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:4994): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511090771562	Marionette	INFO	Listening on port 33181
+1511090771577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511090771675	Marionette	DEBUG	Register listener.js for window 2147483649
+1511090771697	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511090774069	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511090775212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511090776943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+[Child 5053, MediaPlayback #3] WARNING: Decoder=7f10038f9600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 5053, MediaPlayback #2] WARNING: Decoder=7f10038f9600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511090788869	geckodriver	INFO	geckodriver 0.19.1
+1511090788872	geckodriver	INFO	Listening on 127.0.0.1:48889
+1511090789979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bAM5Dcdo3b7V"
+1511090790687	Marionette	INFO	Enabled via --marionette
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:5183): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511090793295	Marionette	INFO	Listening on port 43973
+1511090793420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511090793494	Marionette	DEBUG	Register listener.js for window 2147483649
+1511090793510	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511090794991	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511090796240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511090797654	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5183, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-6g67x7/firefox-58.0~b4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511090921317	geckodriver	INFO	geckodriver 0.19.1
+1511090921320	geckodriver	INFO	Listening on 127.0.0.1:32825
+1511090922423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SIDuANBnkoBQ"
+1511090923138	Marionette	INFO	Enabled via --marionette
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:5435): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511090925815	Marionette	INFO	Listening on port 36741
+1511090925844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511090925916	Marionette	DEBUG	Register listener.js for window 2147483649
+1511090925947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511090928306	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511090929674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511090931143	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+[Parent 5435, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-6g67x7/firefox-58.0~b4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1511090994494	geckodriver	INFO	geckodriver 0.19.1
+1511090994497	geckodriver	INFO	Listening on 127.0.0.1:42301
+1511090995607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OgFhkoWsjWNm"
+1511090996299	Marionette	INFO	Enabled via --marionette
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:5644): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511090998889	Marionette	INFO	Listening on port 46211
+1511090998927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511090999004	Marionette	DEBUG	Register listener.js for window 2147483649
+1511090999028	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511091002339	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511091003961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511091004738	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511091189326	geckodriver	INFO	geckodriver 0.19.1
+1511091189329	geckodriver	INFO	Listening on 127.0.0.1:43173
+1511091190433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ChjheSnh3avK"
+1511091191156	Marionette	INFO	Enabled via --marionette
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:5890): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511091193715	Marionette	INFO	Listening on port 33433
+1511091193759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511091193831	Marionette	DEBUG	Register listener.js for window 2147483649
+1511091193880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511091196261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511091197442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1511091198102	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511091198279	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511091199229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511091199395	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511091199397	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+1511091199451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511091199451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511091199451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511091199451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511091200541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacito"
+1511091200838	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/results?search_query=Despacito"
+1511091254740	Marionette	DEBUG	Register listener.js for window 4294967297
+1511091254781	Marionette	DEBUG	Register listener.js for window 4294967299
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511091259831	geckodriver	INFO	geckodriver 0.19.1
+1511091259834	geckodriver	INFO	Listening on 127.0.0.1:33265
+1511091260934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1LiesLEwp6K8"
+1511091261622	Marionette	INFO	Enabled via --marionette
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:6146): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511091264498	Marionette	INFO	Listening on port 41503
+1511091264560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511091264632	Marionette	DEBUG	Register listener.js for window 2147483649
+1511091264660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511091267031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511091268647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511091269479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511091269602	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511091269823	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511091269825	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+1511091269874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511091269874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511091269875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511091269875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511091269875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511091271837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacito"
+1511091272333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/results?search_query=Despacito"
+1511091272732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511091281979	Marionette	DEBUG	Register listener.js for window 4294967297
+1511091282026	Marionette	DEBUG	Register listener.js for window 4294967299
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511093766502	geckodriver	INFO	geckodriver 0.19.1
+1511093766505	geckodriver	INFO	Listening on 127.0.0.1:41527
+1511093767614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BUfALomy1oSp"
+1511093768345	Marionette	INFO	Enabled via --marionette
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:7058): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511093770987	Marionette	INFO	Listening on port 45889
+1511093771035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511093771107	Marionette	DEBUG	Register listener.js for window 2147483649
+1511093771148	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511093773460	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511093774748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511093776296	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511093797938	geckodriver	INFO	geckodriver 0.19.1
+1511093797941	geckodriver	INFO	Listening on 127.0.0.1:43285
+1511093799073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eYsA6rrS2Qgy"
+1511093799794	Marionette	INFO	Enabled via --marionette
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:7246): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511093802762	Marionette	INFO	Listening on port 37349
+1511093802802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511093802871	Marionette	DEBUG	Register listener.js for window 2147483649
+1511093802894	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511093805184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511093806790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511093808394	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511093808529	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511093808702	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511093808704	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+1511093808761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511093808761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1511093808762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511093808762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511093810798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacito"
+1511093811037	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/results?search_query=Despacito"
+1511093811518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511093816120	Marionette	DEBUG	Register listener.js for window 4294967297
+1511093816159	Marionette	DEBUG	Register listener.js for window 4294967299
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 7058, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-6g67x7/firefox-58.0~b4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1511094397108	geckodriver	INFO	geckodriver 0.19.1
+1511094397111	geckodriver	INFO	Listening on 127.0.0.1:50949
+1511094398257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4WwcHqZbhWXk"
+1511094399057	Marionette	INFO	Enabled via --marionette
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:7901): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511094402005	Marionette	INFO	Listening on port 34875
+1511094402088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511094402197	Marionette	DEBUG	Register listener.js for window 2147483649
+1511094403240	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511094404872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511094406880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511094408147	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511094408317	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511094408532	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511094408535	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+1511094408647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511094408648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511094408648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511094408648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511094408649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511094410588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacito"
+1511094410980	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/results?search_query=Despacito"
+[Child 7957, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6g67x7/firefox-58.0~b4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1511094418165	geckodriver	INFO	geckodriver 0.19.1
+1511094418169	geckodriver	INFO	Listening on 127.0.0.1:43125
+1511094419307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pWJI0jMLZpzO"
+1511094420129	Marionette	INFO	Enabled via --marionette
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:8084): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511094423591	Marionette	INFO	Listening on port 33243
+1511094423630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511094423717	Marionette	DEBUG	Register listener.js for window 2147483649
+1511094423748	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511094424530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511094426528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511094427658	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511094427942	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511094428220	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511094428222	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+1511094428303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511094428303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511094428304	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511094428304	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511094428305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1511094430514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacito"
+1511094431190	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/results?search_query=Despacito"
+1511094431678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511094443163	geckodriver	INFO	geckodriver 0.19.1
+1511094443166	geckodriver	INFO	Listening on 127.0.0.1:57911
+1511094444342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6eZFchnJjLPu"
+1511094445258	Marionette	INFO	Enabled via --marionette
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:8284): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511094448235	Marionette	INFO	Listening on port 37315
+1511094448278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511094448374	Marionette	DEBUG	Register listener.js for window 2147483649
+1511094449330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511094449935	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511094451815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1511094452255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+[Child 8342, MediaPlayback #1] WARNING: Decoder=7f142b26ba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 8342, MediaPlayback #1] WARNING: Decoder=7f142b26ba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 8342, MediaPlayback #1] WARNING: Decoder=7f142b26ba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 8342, MediaPlayback #3] WARNING: Decoder=7f142b26ba00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Parent 8284, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-6g67x7/firefox-58.0~b4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511095235957	geckodriver	INFO	geckodriver 0.19.1
+1511095235960	geckodriver	INFO	Listening on 127.0.0.1:46047
+1511095237055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PL2hms44NZIF"
+1511095237752	Marionette	INFO	Enabled via --marionette
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:9375): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511095240329	Marionette	INFO	Listening on port 40965
+1511095240377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511095240458	Marionette	DEBUG	Register listener.js for window 2147483649
+1511095240513	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511095242252	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511095243792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1511095245827	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+1511095245994	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.youtube.com/"
+1511095246145	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.youtube.com/"
+1511095246146	Marionette	DEBUG	Received DOM event "unload" for "https://www.youtube.com/"
+JavaScript error: https://www.gstatic.com/ads/ci/studio/pixelloader/1/pixelloader_min.js, line 25: TypeError: document.registerElement is not a function
+1511095246196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511095246197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1511095246197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1511095246198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511095246198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511095248268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/results?search_query=Despacitos"
+1511095248741	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/results?search_query=Despacitos"
+1511095249100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 9431, MediaPlayback #2] WARNING: Decoder=7f244a7e5e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 9431, MediaPlayback #1] WARNING: Decoder=7f244a7e5e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+[Child 9431, MediaPlayback #1] WARNING: Decoder=7f244a7e5e00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-6g67x7/firefox-58.0~b4+build1/dom/media/MediaDecoderStateMachine.cpp, line 3350
+1511095265637	Marionette	DEBUG	Register listener.js for window 4294967297
+1511095265677	Marionette	DEBUG	Register listener.js for window 4294967299
+1511099959560	geckodriver	INFO	geckodriver 0.19.1
+1511099959563	geckodriver	INFO	Listening on 127.0.0.1:55115
+1511099960651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9qS1LZoUlDHd"
+1511099961326	Marionette	INFO	Enabled via --marionette
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:20351): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511099963176	Marionette	INFO	Listening on port 39319
+1511099963776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511099963876	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511099985354	geckodriver	INFO	geckodriver 0.19.1
+1511099985357	geckodriver	INFO	Listening on 127.0.0.1:38111
+1511099986445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WnOsyHAzifxI"
+1511099987190	Marionette	INFO	Enabled via --marionette
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:20530): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511099989785	Marionette	INFO	Listening on port 43951
+1511099989858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511099989939	Marionette	DEBUG	Register listener.js for window 2147483649
+1511099990653	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:267 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4404 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100072251	geckodriver	INFO	geckodriver 0.19.1
+1511100072255	geckodriver	INFO	Listening on 127.0.0.1:36177
+1511100073357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3Ghb42bFiY6C"
+1511100074072	Marionette	INFO	Enabled via --marionette
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:20755): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100076524	Marionette	INFO	Listening on port 34777
+1511100076574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100076671	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100148482	geckodriver	INFO	geckodriver 0.19.1
+1511100148486	geckodriver	INFO	Listening on 127.0.0.1:43849
+1511100149575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gx0jOLVlybQt"
+1511100150282	Marionette	INFO	Enabled via --marionette
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:20974): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100152802	Marionette	INFO	Listening on port 45277
+1511100152889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100152992	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100203622	geckodriver	INFO	geckodriver 0.19.1
+1511100203624	geckodriver	INFO	Listening on 127.0.0.1:49523
+1511100204723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SZvUcAHTcerA"
+1511100205451	Marionette	INFO	Enabled via --marionette
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:21202): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100208041	Marionette	INFO	Listening on port 46663
+1511100208140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100208250	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100241947	geckodriver	INFO	geckodriver 0.19.1
+1511100241950	geckodriver	INFO	Listening on 127.0.0.1:55003
+1511100243042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3z01yuCnTDnz"
+1511100243763	Marionette	INFO	Enabled via --marionette
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:21414): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100246183	Marionette	INFO	Listening on port 46135
+1511100246257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100246344	Marionette	DEBUG	Register listener.js for window 2147483649
+1511100248403	Marionette	DEBUG	Register listener.js for window 4294967297
+1511100248454	Marionette	DEBUG	Register listener.js for window 4294967299
+1511100249787	Marionette	DEBUG	Register listener.js for window 4294967303
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100354690	geckodriver	INFO	geckodriver 0.19.1
+1511100354693	geckodriver	INFO	Listening on 127.0.0.1:58209
+1511100355795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1MISPrerFUqw"
+1511100356542	Marionette	INFO	Enabled via --marionette
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:21652): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100359039	Marionette	INFO	Listening on port 38993
+1511100359109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100359224	Marionette	DEBUG	Register listener.js for window 2147483649
+1511100359975	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:267 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4404 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100403843	geckodriver	INFO	geckodriver 0.19.1
+1511100403846	geckodriver	INFO	Listening on 127.0.0.1:55725
+1511100404936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XEfhw2IkHhxO"
+1511100405627	Marionette	INFO	Enabled via --marionette
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:21865): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100408225	Marionette	INFO	Listening on port 37937
+1511100408255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100408357	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511100464931	geckodriver	INFO	geckodriver 0.19.1
+1511100464934	geckodriver	INFO	Listening on 127.0.0.1:41809
+1511100466026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gc2mADs1WOXX"
+1511100466729	Marionette	INFO	Enabled via --marionette
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:22097): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511100469366	Marionette	INFO	Listening on port 38187
+1511100469438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511100469517	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1511103969705	geckodriver	INFO	geckodriver 0.19.1
+1511103969709	geckodriver	INFO	Listening on 127.0.0.1:41039
+1511103970797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7AEQkHZIXH2s"
+1511103971818	Marionette	INFO	Enabled via --marionette
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:25053): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511103974719	Marionette	INFO	Listening on port 33253
+1511103974850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511103974954	Marionette	DEBUG	Register listener.js for window 2147483649
+1511103975927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511103977222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511103977487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511103982864	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511103982904	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511103983053	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511103983054	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511103983622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511103983623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511103983767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511103983787	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511103984244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511103986356	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511103989646	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLw3WR24oKTlgrQHaSz2r1IU9Z5qyM9WAeWs7aZamB_HVEY4tUhrqIjwcKP0CE28cVgPoCPKj9raYuQMdn4KB2z3KkNA7fk7YN4iw2c4HxTkAjmHQ4tBee5xDwpd89u1tu-kr9qHB2ajdD2qh9oQEU6ypa0HgQ"
+1511103989742	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLw3WR24oKTlgrQHaSz2r1IU9Z5qyM9WAeWs7aZamB_HVEY4tUhrqIjwcKP0CE28cVgPoCPKj9raYuQMdn4KB2z3KkNA7fk7YN4iw2c4HxTkAjmHQ4tBee5xDwpd89u1tu-kr9qHB2ajdD2qh9oQEU6ypa0HgQ"
+1511103989743	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLw3WR24oKTlgrQHaSz2r1IU9Z5qyM9WAeWs7aZamB_HVEY4tUhrqIjwcKP0CE28cVgPoCPKj9raYuQMdn4KB2z3KkNA7fk7YN4iw2c4HxTkAjmHQ4tBee5xDwpd89u1tu-kr9qHB2ajdD2qh9oQEU6ypa0HgQ"
+1511103989759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A188%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511103989774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511103989775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511103989879	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A188%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511103989882	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A188%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511103990027	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A188%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511103990032	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511103990034	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511103990037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511103990053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511103990054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511103990193	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511103990323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511103991204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1511103992521	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511104002844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511104400576	geckodriver	INFO	geckodriver 0.19.1
+1511104400581	geckodriver	INFO	Listening on 127.0.0.1:42129
+1511104401677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gb8P2ZtZn7TR"
+1511104402430	Marionette	INFO	Enabled via --marionette
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:25820): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511104405246	Marionette	INFO	Listening on port 37535
+1511104405298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511104405395	Marionette	DEBUG	Register listener.js for window 2147483649
+1511104405412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511104406874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511104407172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511104409638	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511104409669	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511104409817	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511104409818	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511104410289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511104410289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511104410421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511104410459	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511104410909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511104413008	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511104416008	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzhdnMmQocCQ4pj0pcRXrlVOGN2-EZpTuHURRMYb5t5bW0XzLxlQyBvJexkO2ZSeJBJvnjPsH_okU0MPXY439qlPBvAv5g9hrbgWC3ikuA3kLLngLM1hv5GuMfiyfOIQxO_VsuQCsVv_N83JGxSKTdmqlbLyg"
+1511104416103	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzhdnMmQocCQ4pj0pcRXrlVOGN2-EZpTuHURRMYb5t5bW0XzLxlQyBvJexkO2ZSeJBJvnjPsH_okU0MPXY439qlPBvAv5g9hrbgWC3ikuA3kLLngLM1hv5GuMfiyfOIQxO_VsuQCsVv_N83JGxSKTdmqlbLyg"
+1511104416105	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzhdnMmQocCQ4pj0pcRXrlVOGN2-EZpTuHURRMYb5t5bW0XzLxlQyBvJexkO2ZSeJBJvnjPsH_okU0MPXY439qlPBvAv5g9hrbgWC3ikuA3kLLngLM1hv5GuMfiyfOIQxO_VsuQCsVv_N83JGxSKTdmqlbLyg"
+1511104416135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511104416136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511104416136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A167%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511104416302	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A167%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511104416305	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A167%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511104416432	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A167%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511104416438	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511104416440	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511104416448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511104416449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511104416449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511104416718	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511104416892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511104417131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1511104418987	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511104429242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511107138416	geckodriver	INFO	geckodriver 0.19.1
+1511107138419	geckodriver	INFO	Listening on 127.0.0.1:54141
+1511107139510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vi0Ze83Beohn"
+1511107140240	Marionette	INFO	Enabled via --marionette
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:30043): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511107142865	Marionette	INFO	Listening on port 33649
+1511107142921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511107143036	Marionette	DEBUG	Register listener.js for window 2147483649
+1511107143055	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511107145390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511107145656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511107150163	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511107150204	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511107150395	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511107150396	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511107150980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511107150981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511107151131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511107151158	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511107151579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511107153671	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511107157372	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzcLrfU1QHFp4CJt8rs6iSvcDk8cXEi0iYwR34pAgEY_MIi3EVIc4SJ7D09Y1m-5Wvm62halob1eES2iQIXjGnbAsABl82p6TWval4c1-BLNdOiKd09jQu3Tp_Z7-EvNeSDVn6udRjf1TSkf3LYyHQ1x0Z-1g"
+1511107157468	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzcLrfU1QHFp4CJt8rs6iSvcDk8cXEi0iYwR34pAgEY_MIi3EVIc4SJ7D09Y1m-5Wvm62halob1eES2iQIXjGnbAsABl82p6TWval4c1-BLNdOiKd09jQu3Tp_Z7-EvNeSDVn6udRjf1TSkf3LYyHQ1x0Z-1g"
+1511107157468	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLzcLrfU1QHFp4CJt8rs6iSvcDk8cXEi0iYwR34pAgEY_MIi3EVIc4SJ7D09Y1m-5Wvm62halob1eES2iQIXjGnbAsABl82p6TWval4c1-BLNdOiKd09jQu3Tp_Z7-EvNeSDVn6udRjf1TSkf3LYyHQ1x0Z-1g"
+1511107157490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511107157492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511107157492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A187%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511107157594	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A187%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511107157597	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A187%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511107157698	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A187%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511107157704	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511107157706	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511107157708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511107157716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511107157716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511107157890	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511107158049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511107158891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1511107159901	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511107170228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511112396369	geckodriver	INFO	geckodriver 0.19.1
+1511112396372	geckodriver	INFO	Listening on 127.0.0.1:59059
+1511112397469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0IqsaseCzHH2"
+1511112398342	Marionette	INFO	Enabled via --marionette
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:32573): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511112401357	Marionette	INFO	Listening on port 43765
+1511112401384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511112401483	Marionette	DEBUG	Register listener.js for window 2147483649
+1511112401505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511112403753	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511112404050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511112410028	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511112410061	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511112410243	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511112410244	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511112410730	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511112410731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511112410869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511112410895	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511112411310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511112413419	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511112416489	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLwjtrQzw82cmYrwpy9MqvSmj0GnkeljiizgZHKbUbpXlYvD26-TZxUvp2Ttb2OG6K-o_ia58xBPVgXXv69Yj1u_7ru5uDbCfCE2S52ZacDExMugmoD0xwDf_-oPv9zWp7rCT8FAREmRbiwsrvR69QkIUcIt5Q"
+1511112416581	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLwjtrQzw82cmYrwpy9MqvSmj0GnkeljiizgZHKbUbpXlYvD26-TZxUvp2Ttb2OG6K-o_ia58xBPVgXXv69Yj1u_7ru5uDbCfCE2S52ZacDExMugmoD0xwDf_-oPv9zWp7rCT8FAREmRbiwsrvR69QkIUcIt5Q"
+1511112416582	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/challenge/az?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=2&navigationDirection=forward&TL=AHnYQLwjtrQzw82cmYrwpy9MqvSmj0GnkeljiizgZHKbUbpXlYvD26-TZxUvp2Ttb2OG6K-o_ia58xBPVgXXv69Yj1u_7ru5uDbCfCE2S52ZacDExMugmoD0xwDf_-oPv9zWp7rCT8FAREmRbiwsrvR69QkIUcIt5Q"
+1511112416609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A174%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511112416610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511112416610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1511112416709	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A174%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511112416712	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A174%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511112416835	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A174%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511112416841	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511112416844	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511112416846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511112416851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1511112416852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1511112417002	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511112417103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511112417340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1511112419905	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511112430218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1511126577961	geckodriver	INFO	geckodriver 0.19.1
+1511126577998	geckodriver	INFO	Listening on 127.0.0.1:54735
+1511126579078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.STXyKAlGOBtP"
+1511126584948	Marionette	INFO	Enabled via --marionette
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/16x16 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/24x24 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/32x32 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/64x64 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/96x96 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/192x192 of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory apps/symbolic of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory status/scalable of theme ElGeneral has no size field
+
+
+(firefox:3714): Gtk-WARNING **: Theme directory status/symbolic of theme ElGeneral has no size field
+
+1511126591220	Marionette	INFO	Listening on port 43627
+1511126591232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511126591323	Marionette	DEBUG	Register listener.js for window 2147483649
+1511126591386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511126592479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511126593046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser#/home"
+1511126599315	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser#/home"
+1511126599347	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser#/home"
+1511126599525	Marionette	DEBUG	Received DOM event "pagehide" for "https://play.google.com/music/listen?authuser#/home"
+1511126599526	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser#/home"
+1511126600707	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1511126600707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511126600861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1511126600891	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1511126601312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511126603420	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511126603877	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511126603961	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511126603961	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?service=sj&passive=1209600&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&followup=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1511126603979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1511126603980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A191%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511126604091	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A191%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511126604094	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A191%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511126604191	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A191%3A1&pstMsg=1&chtml=LoginDoneHtml&service=sj&continue=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fauthuser%26utm_medium%3Dsigned_out_warm_welcome%26welcome%3D0%23%2Fhome&gidl=EgIIAA"
+1511126604196	Marionette	DEBUG	Received DOM event "beforeunload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511126604198	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511126604200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511126604205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1511126604205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1511126604374	Marionette	DEBUG	Received DOM event "unload" for "https://play.google.com/music/listen?authuser=0&utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511126604499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://play.google.com/music/listen?utm_medium=signed_out_warm_welcome&welcome=0#/home"
+1511126606600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1511126607104	Marionette	DEBUG	Received DOM event "pageshow" for "https://play.google.com/music/listen#/home"
+1511126617423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
